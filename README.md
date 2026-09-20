@@ -2,7 +2,7 @@
 
 Author: Syed Anas Imam  
 Roll Number: 25SP-008-CS  
-University: UIT (University Institute of Technology)  
+University: UIT (Usman Institute of Technology)  
 Tool: Logisim 2.7.1  
 
 ---
