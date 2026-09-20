@@ -414,7 +414,7 @@ All subcircuits are embedded directly in `RISCVUIT.circ`; no external Logisim li
 
 Syed Anas Imam  
 Roll Number: 25SP-008-CS  
-University Institute of Technology (UIT)  
+Usman Institute of Technology (UIT)  
 
 ---
 
